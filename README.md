@@ -1,1 +1,1 @@
-https://github.com/ilya692/ono-tebe-nado-ad.git
+https://github.com/ilya692/projekt-3.git
